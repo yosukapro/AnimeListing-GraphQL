@@ -1,2 +1,2 @@
-export * from './anime-movies'
 export * from './viewer'
+export * from './media-list'
